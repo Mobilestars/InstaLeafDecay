@@ -1,0 +1,9 @@
+name: InstaLeafDecay
+version: '1.0.0'
+main: de.scholle.instaLeafDecay.InstaLeafDecay
+api-version: '1.18'
+prefix: ILD
+load: STARTUP
+authors: [ Mobilestars ]
+description: Instantly decays leaves near broken logs to speed up tree harvesting.
+website: https://modrinth.com/project/instaleafdecay
